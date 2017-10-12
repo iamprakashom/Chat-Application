@@ -41,4 +41,5 @@ To end the chat session, use `stop` command.
    e.g. `stop`
 
 
-
+##### Screenshot
+![](https://github.com/iamprakashom/Chat-Application/blob/master/screenshot.png)
